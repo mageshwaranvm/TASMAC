@@ -1,0 +1,18 @@
+{
+  "name": "TASMAC Shop 8804 — Daily Chitta",
+  "short_name": "TASMAC 8804",
+  "description": "Daily stock and sales management for TASMAC Shop 8804, Paneer Nagar Mugappair",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c0392b",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["business", "utilities"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
